@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f1539b0-0c4f-485b-8f73-424ab91b78db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/CallcenterCommonLanguageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/CallcenterSensitiveWordController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/CallcenterTalkingSkillController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/CallcenterWebCustomerSettingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/KnowledgeListController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreCallcenterCommonLanguageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreCallcenterCommonLanguageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreCallcenterSensitiveWordMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreCallcenterSensitiveWordMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreCallcenterTalkingSkillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreCallcenterTalkingSkillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeListMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeListMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/CallcenterSensitiveWordDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/knowledgeListDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/CallcenterCommonLanguage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/CallcenterSensitiveWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/CallcenterTalkingSkill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/CallcenterWebCustomerSetting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/CallcenterCommonLanguageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/CallcenterSensitiveWordMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/CallcenterTalkingSkillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/CallcenterWebCustomerSettingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapping/CallcenterCommonLanguageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapping/CallcenterSensitiveWordMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapping/CallcenterTalkingSkillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapping/CallcenterWebCustomerSettingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/CallcenterCommonLanguageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/CallcenterSensitiveWordService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/CallcenterTalkingSkillService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/CallcenterWebCustomerSettingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/KnowledgeListService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/ExcelExportUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/ExcelField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/ExcelSheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/TransitionUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/excel/knowledge.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wepact/dfm/controller/KnowledgeListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/wepact/dfm/controller/KnowledgeListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wepact/dfm/service/KnowledgeListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/wepact/dfm/service/KnowledgeListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/HRProcessmaster/OnBorad/onboard/exception/AuthException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/HRProcessmaster/OnBorad/onboard/exception/AuthException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/KnowledgeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/KnowledgeApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/CommonUtilContoller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/CommonUtilContoller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/KnowledgeCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/KnowledgeCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/KnowledgeTypeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/controller/KnowledgeTypeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeAttachmentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeAttachmentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeCategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeCategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeCategoryOrgMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeCategoryOrgMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeCategoryProductMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeCategoryProductMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeEmployeetypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeEmployeetypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeJobpositionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeJobpositionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeOrgMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeOrgMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeRegionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeRegionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeTypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/customize/mapper/MoreKnowledgeTypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/KnowledgeCategoryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/KnowledgeCategoryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/KnowledgeDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/KnowledgeDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/KnowledgeHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/KnowledgeHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/KnowledgeTableDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/KnowledgeTableDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/dto/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/exception/AuthException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/exception/AuthException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/Knowledge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/Knowledge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeAttachment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeAttachment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeCategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeCategoryOrg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeCategoryOrg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeCategoryProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeCategoryProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeEmployeetype.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeEmployeetype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeJobposition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeJobposition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeOrg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeOrg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeRegion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeRegion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/entity/KnowledgeType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeAttachmentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeAttachmentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeCategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeCategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeCategoryOrgMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeCategoryOrgMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeCategoryProductMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeCategoryProductMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeEmployeetypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeEmployeetypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeJobpositionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeJobpositionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeOrgMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeOrgMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeRegionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeRegionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeTypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/generator/mapper/KnowledgeTypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/KnowledgeCategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/KnowledgeCategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/KnowledgeTypeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/service/KnowledgeTypeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/AuthorizationUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/AuthorizationUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/Json.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/Json.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/Pagination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/util/Pagination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/Employeetype.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/Employeetype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/Jobposition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/Jobposition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/KnowledgeCategoryVo$org.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/KnowledgeCategoryVo$org.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/KnowledgeCategoryVo$product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/KnowledgeCategoryVo$product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/KnowledgeCategoryVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/KnowledgeCategoryVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/KnowledgeVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/KnowledgeVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wepact/dfm/vo/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/callcenter/CallCenterApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/callcenter/CallCenterApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZgvB46keo9FQ46HVNRYyfpZH3c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585210491288" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workbase\s\Knowledge\src\main\java\cn\wepact\dfm\customize\mapper" />
+      <recent name="E:\workbase\s\Knowledge\src\main\java\cn\wepact\dfm\vo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="KnowledgeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="callcenter-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wepact.dfm.KnowledgeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f1539b0-0c4f-485b-8f73-424ab91b78db" name="Default Changelist" comment="" />
+      <created>1585202375944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585202375944</updated>
+      <workItem from="1585202377278" duration="451000" />
+      <workItem from="1585204362087" duration="604000" />
+      <workItem from="1585205407903" duration="4938000" />
+      <workItem from="1585273414504" duration="479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1585273424249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585273424249" />
+    <state width="1877" height="225" key="GridCell.Tab.0.bottom" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.0.center" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.0.left" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.0.right" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.1.bottom" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.1.center" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.1.left" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.1.right" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.2.bottom" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.2.center" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.2.left" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+    <state width="1877" height="225" key="GridCell.Tab.2.right" timestamp="1585273899174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585273899174" />
+  </component>
+</project>
